@@ -6,7 +6,7 @@ Yes, it's me, [Andy Nguyen](https://github.com/aervnu). I manage this org, and s
 
 I don't plan to expand this org to host more archived projects for now, but I might consider that in the future. Who knows.
 
-Should you run into any inquiry or concern, contact me through the org email. 
+Should you have any inquiry or concern, contact me through the org email. 
 
-Well, that's it. Have fun dissecting.
+Well, that's it. Have fun.
 
